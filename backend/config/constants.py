@@ -1,0 +1,5 @@
+"""Domain constants"""
+
+MIN_PRICE_PRECISION = 8
+MAX_ORDER_BOOK_DEPTH = 20
+TICK_BATCH_SIZE = 1000
